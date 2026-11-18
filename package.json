@@ -1,0 +1,13 @@
+{
+  "name": "ravache-node-hello-world",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atividade Node.js com Docker e GitHub Actions",
+  "scripts": {
+    "start": "node \"node index.js\"",
+    "test": "node --check \"node index.js\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
